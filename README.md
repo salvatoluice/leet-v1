@@ -1,4 +1,4 @@
-# LeetCode Clone V1
+# Leet-V1
 
 ### Built With React, NextJS, TypeScript, TailwindCSS, Firebase and recoil js
 
