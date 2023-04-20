@@ -27,3 +27,5 @@
 ** Select your challenge of choice
 
 ** Attempt the challenge in the code playground provided
+
+** After completion, hit the test button on the bottom right of your screen
