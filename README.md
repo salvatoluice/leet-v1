@@ -25,3 +25,5 @@
 ** Navigate to the tests page
 
 ** Select your challenge of choice
+
+** Attempt the challenge in the code playground provided
