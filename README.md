@@ -20,4 +20,6 @@
 
 * To get Started:
 
-** * Sign up for free by creating your account
+** Sign up for free by creating your account
+
+** Navigate to the tests page
