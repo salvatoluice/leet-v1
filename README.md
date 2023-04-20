@@ -6,6 +6,16 @@
 
 ## Built with:
 
+** Next JS
+
+** Typescript
+
+** Tailwind
+
+** Firebase
+
+**  Recoil js
+
 * This clone is built to help developers practise coding challenges and prepare for their technical interviews. 
 
 * To get Started:
